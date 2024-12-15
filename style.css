@@ -1,0 +1,21 @@
+.nav-link {
+    font-family: Impact;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin right: 30px;
+}
+.nav-link:hover{
+    color: rgb(182, 215, 243);
+}
+.jumbotron{
+    background-image: url("../gambar/gedungfkom2.jgp");
+    background-size: cover;
+    height: 500px;
+}
+@media (min-width: 992px) {
+    font-family: Impact;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
